@@ -1,0 +1,40 @@
+<div class="container col-lg-12">
+	<div class="row">
+		<div class="col-lg-12">{{ post.title }}</div>
+		<p class="col-lg-12">{{ post.author }}</p>
+		<p class="col-lg-12">{{ post.publish_date }}</p>
+	</div>
+	<p>{{ post.slug }}</p>
+	<p>{{ post.content }}</p>
+
+<form class="commentsForm">
+	<div class="form-group col-lg-6">
+		<label for="comment">Add comment:</label>
+		<input type="text" class="form-control" id="comment" aria-describedby="comment" placeholder="Enter comment">
+	</div>
+	<div class="col-lg-12">
+		<button type="submit" class="btn btn-primary submitButton">Submit</button>
+	</div>
+
+	
+</form>
+<div class="container">
+	<div class="col-lg-11 commentHolder">
+		<article ng-repeat="comment in comments">
+			<div class="commentBox">
+				<ul>
+					<li><b>User :</b> {{ comment.user}}</li>
+					<li><b>Date :</b> {{ comment.date}}</li>
+					<li><b>Comment :</b> {{ comment.content}}</li>
+				</ul>
+			</div>
+			<hr>
+			<!-- 	<a href="http://localhost:9001/#/post/{{posts.indexOf(post)/comments}}">test</a> -->
+		</article>
+	</div>
+</div>
+
+
+
+
+		

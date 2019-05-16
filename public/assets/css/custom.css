@@ -1,0 +1,57 @@
+body {
+  background: #FFFFFF; }
+
+.header {
+  margin-top: 5px;
+  margin-bottom: 10px; }
+  .header .navigation {
+    margin-top: 5px;
+    height: 50px;
+    background: #007990;
+    text-align: center;
+    border-radius: 5px; }
+    .header .navigation .navItems {
+      display: block;
+      line-height: 48px;
+      color: #FFFFFF;
+      font-weight: bold;
+      font-size: 22px; }
+      .header .navigation .navItems .menuItem {
+        color: #FFFFFF;
+        cursor: pointer; }
+      .header .navigation .navItems .menuItem:hover {
+        text-decoration: none; }
+
+.mainContentHolder {
+  background-color: #f5f9fa;
+  background-image: linear-gradient(rgba(0, 177, 194, 0.035), rgba(0, 177, 194, 0.14));
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: auto;
+  border-radius: 5px;
+  overflow-x: hidden;
+  padding-top: 10px; }
+  .mainContentHolder .commentsForm .commentsInputField {
+    height: 50px; }
+  .mainContentHolder .commentsForm .submitButton {
+    margin-bottom: 20px; }
+  .mainContentHolder .commentHolder {
+    background: #007990;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    border-radius: 5px; }
+    .mainContentHolder .commentHolder .commentBox {
+      color: #FFFFFF; }
+
+.posts .thumbnail {
+  border-color: #007990; }
+  .posts .thumbnail .thumbnailHead {
+    background-color: rgba(31, 41, 60, 0.8); }
+
+footer {
+  border-radius: 5px;
+  background: #007990;
+  font-weight: normal;
+  font-size: 14px;
+  color: #FFFFFF;
+  text-align: center; }

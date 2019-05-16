@@ -1,0 +1,78 @@
+@import "variables.scss";
+
+body{
+	background:$whiteBg;
+}
+
+.header{
+	margin-top: 5px;
+	margin-bottom:10px;
+	.navigation{
+		margin-top: 5px;
+		height:50px;
+		background:$mainBackground;
+		text-align: center;
+		border-radius:5px;
+		.navItems{
+			display: block;
+			line-height:48px;
+			color:$whiteTitle;
+			font-weight: bold;
+			font-size:22px;
+			.menuItem{
+				color:$whiteTitle;
+				cursor: pointer;
+			}
+			.menuItem:hover{
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+.mainContentHolder{
+	background-color: #f5f9fa;
+    background-image: linear-gradient(rgba(0,177,194,.035),rgba(0,177,194,.14));
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-radius: 5px;
+    overflow-x: hidden;
+    padding-top: 10px;
+    .commentsForm{
+    	.commentsInputField{
+    		height:50px;
+    	}
+    	.submitButton{
+    		margin-bottom: 20px;
+    	}
+    }
+    .commentHolder{
+    	background:$mainBackground;
+    	padding:20px 0;
+    	margin-bottom: 20px;
+    	border-radius: 5px;
+    	.commentBox{
+    		color:$whiteTitle;
+    	}
+    }
+    
+}
+.posts{
+	.thumbnail{
+		border-color: $mainBackground;
+		.thumbnailHead{
+			background-color: rgba(31,41,60,.8);
+		}
+	}
+}
+
+
+footer {
+	border-radius:5px;
+	background:$mainBackground;
+	font-weight: normal;
+	font-size:14px;
+	color:$whiteTitle;
+	text-align: center;
+}
