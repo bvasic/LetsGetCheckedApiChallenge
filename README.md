@@ -1,13 +1,16 @@
 ################################################################
 ## Comments from developer
 ################################################################
-Technologies used:
-*HTML,CSS3 (SASS preprocessor), Bootstrap 3 UI Framework
-*Javascript (AngularJs) --> jQuery also included in order for bootstrap to work
-*NodeJs v11.7.0.
+## Technologies used:
+* HTML,CSS3 (SASS preprocessor), Bootstrap 3 UI Framework
+* Javascript (AngularJs) --> jQuery also included in order for bootstrap to work
+* NodeJs v11.7.0.
 
 ## Information for running application:
--node_modules dependencies not included as requested so npm needs to be updated with #### `npm install` and after run the project #### `npm run api`
+-node_modules dependencies not included as requested so npm needs to be updated with 
+#### `npm install` 
+and after run the project 
+#### `npm run api`
 
 ## Tasks that didnt met requirements from my side:
 -I didn't do unit test on angular per component as requested because I never done that before but I will learn it, I did only some unit testing on backend in C#,
