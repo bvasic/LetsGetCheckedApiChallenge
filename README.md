@@ -10,15 +10,17 @@
 #### `npm install` 
 and after run the project 
 #### `npm run api`
-## Tasks that didnt met requirements from my side:
+## Tasks that I didn't met as requirements from my side:
 -I didn't do unit test on angular per component as requested because I never done that before but I will learn it, I did only some unit testing on backend in C#,
 I am interested in learning it and it shouldn't take too much time
+
+## SOURCE CODE:
+* Code is available on repository https://github.com/bvasic/LetsGetCheckedApiChallenge
+* There is also live version deployed on private vps server running Ubuntu Server and nginx as a reverse proxy: http://vps621397.ovh.net
+
 ## ANSWERS TO YOUR QUESTIONS:
 * Do you have a StackOverflow, GitHub, etc account that you'd like us to have a look at?
 
-https://github.com/bvasic/
-https://www.linkedin.com/in/bvasic/
-https://bojanvasic.me/
 * https://github.com/bvasic/
 * https://www.linkedin.com/in/bvasic/
 * https://bojanvasic.me/
