@@ -14,3 +14,9 @@ angular.module('app', [
 			redirectTo: '/'
 		});
 	}])
+
+	.filter('trustHtml',function($sce){
+	  return function(html){
+	    return $sce.trustAsHtml(html)
+	  }
+	})

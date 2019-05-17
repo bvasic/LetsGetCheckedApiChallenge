@@ -1,1 +1,3 @@
-console.log("Javascript test");
+$( document ).ready(function() {
+	console.log("jQuery also running");
+});

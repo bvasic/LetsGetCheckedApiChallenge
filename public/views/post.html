@@ -1,6 +1,6 @@
-<div class="container col-lg-12 posts">
+<!-- <div class="container col-lg-12 posts">
 	<article ng-repeat="post in posts">
-		<div class="col-lg-3 thumbnail">
+		<div class="col-lg-4 thumbnail">
 			<div class="thumbnailHead">
 				<h3><a href="#/post/{{posts.indexOf(post)}}">{{post.title}}</a></h3>
 				<p>{{ post.description }}<p>
@@ -12,4 +12,24 @@
 			<a href="#/post/{{posts.indexOf(post)}}">Read more &rarr;</a>
 		</div>
 	</article>
-</div>
+</div> -->
+
+	<div class="container col-lg-12 posts">
+	    <div class="row">
+	    	<article ng-repeat="post in posts">
+				<div class="col-sm-6 col-md-4">
+		            <div class="thumbnail">
+		                <a href="#/post/{{posts.indexOf(post)}}" class="btn btn-primary col-xs-12" role="button">{{post.title}}</a>
+		                <h4>
+			            	<p>{{post.author}}</p>
+			            </h4>
+						<p>{{post.publish_date}}</p>
+						<p>{{post.description}}</p>
+		                <div class="clearfix"></div>
+		            </div>
+
+		        </div>
+			</article> 
+		</div>
+	</div>
+
