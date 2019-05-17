@@ -46,12 +46,23 @@ body {
     border-radius: 5px; }
     .mainContentHolder .commentHolder .commentBox {
       color: #FFFFFF; }
+  .mainContentHolder .leadHomepage {
+    margin-top: 50px; }
 
 .posts .thumbnail {
   border-color: #007990;
-  height: 276px; }
+  height: 276px;
+  padding: 12px;
+  position: relative; }
   .posts .thumbnail .thumbnailHead {
     background-color: rgba(31, 41, 60, 0.8); }
+  .posts .thumbnail .readMore {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 5px;
+    margin-right: 8px;
+    right: 0;
+    font-weight: bold; }
 
 footer {
   border-radius: 5px;
@@ -60,3 +71,5 @@ footer {
   font-size: 14px;
   color: #FFFFFF;
   text-align: center; }
+
+/*# sourceMappingURL=custom.css.map */

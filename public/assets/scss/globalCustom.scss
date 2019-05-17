@@ -62,14 +62,27 @@ body{
     		color:$whiteTitle;
     	}
     }
+    .leadHomepage{
+    	margin-top: 50px;
+    }
     
 }
 .posts{
 	.thumbnail{
 		border-color: $mainBackground;
 		height:276px;
+		padding: 12px;
+		position: relative;
 		.thumbnailHead{
 			background-color: rgba(31,41,60,.8);
+		}
+		.readMore{
+			position: absolute; 
+            bottom: 0; 
+            margin-bottom: 5px;
+            margin-right: 8px;
+            right: 0;
+            font-weight: bold;
 		}
 	}
 }
