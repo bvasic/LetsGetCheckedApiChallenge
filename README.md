@@ -34,8 +34,11 @@ There was also an article about DevOps that I came across recently and definitel
 
 * Tell us about why you consider LetsGetChecked to be the right move for you.
 
-Because when I heard about LetsGetChecked, first of all I saw big potential for massive expansion on the market because idea for giving people opportunity to test their health on their own in their home without visiting doctor is absolutely brilliant, and after research on LinkedIn, Glassdoor and also heard from other people good words about it, and that person can expect very good healthy working environment with a good team, on a definitely interesting projects, and last but not least: its for the great cause. Human health!
-Also, I think I still have plenty to learn although that I am working in this area of IT for many years, and I see myself being as an effective and productive member of the theam, with even possibility to advance my career in future in LetsGetChecked. I think learning is very important, on daily basis, specially in software engineering where new technologies and processes are coming and evolving so fast, so from what I have information, LetsGetChecked is exactly that.
+Because when I heard about LetsGetChecked, first of all I saw big potential for massive expansion on the market because idea for giving people opportunity to test their health on their own in their home without visiting doctor is absolutely brilliant, and also its the first company that I encountered that came up with that business model.
+
+After research on LinkedIn, Glassdoor and also heard from other people good words about it, and that person can expect very good healthy working environment with a good team, on a definitely interesting projects, and last but not least: its for the great cause. Human health!
+
+Also, I think I still have plenty to learn although that I am working in this area of IT for many years, and I see myself being as an effective and productive member of the theam, with even possibility to advance my career in future in LetsGetChecked. I think learning is very important, on daily basis, specially in software engineering where new technologies and processes are coming and evolving so fast, so from what I have information, LetsGetChecked is perfect company and environment for motivated and eager to learn people.
 
 
 I hope I answered all of your questions,
