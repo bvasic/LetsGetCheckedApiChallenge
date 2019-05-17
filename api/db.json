@@ -202,6 +202,27 @@
       "date": "2019-05-17T11:46:40.298Z",
       "postId": "0",
       "id": 15
+    },
+    {
+      "user": "tetetete",
+      "content": "tetetetet",
+      "date": "2019-05-17T15:14:00.038Z",
+      "postId": "0",
+      "id": 16
+    },
+    {
+      "user": "My name",
+      "content": "My COMMENT",
+      "date": "2019-05-17T15:14:32.228Z",
+      "postId": "7",
+      "id": 17
+    },
+    {
+      "user": "John",
+      "content": "This is my comment",
+      "date": "2019-05-17T15:14:57.437Z",
+      "postId": "8",
+      "id": 18
     }
   ]
 }
