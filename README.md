@@ -19,9 +19,9 @@ I am interested in learning it and it shouldn't take too much time
 ## ANSWERS TO YOUR QUESTIONS:
 * Do you have a StackOverflow, GitHub, etc account that you'd like us to have a look at?
 
-https://github.com/bvasic/
-https://www.linkedin.com/in/bvasic/
-https://bojanvasic.me/
+* https://github.com/bvasic/
+* https://www.linkedin.com/in/bvasic/
+* https://bojanvasic.me/
 
 * Tell me about a technical book or article you read recently, why you liked it, and why I should read it.
 
