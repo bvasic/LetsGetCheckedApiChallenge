@@ -2,7 +2,7 @@ angular.module('app.directives',[])
 	.directive('navbar',[function(){
 		return {
 			controller: ['$scope', '$http', function($scope, $http){
-				$http.get('api/db.json').success(function(data){
+				$http.get('http://localhost:9001/posts/').success(function(data){
 					$scope.pages = data.pages;
 				});
 			}],

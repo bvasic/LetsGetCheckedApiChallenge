@@ -33,8 +33,14 @@ angular.module('app.controllers', [
 	            }
 	        //Submit comment for a specific post based on its ID
 	        $http.post('http://localhost:9001/posts/'+ $routeParams.id +'/comments', data)
-	        .success(function (data) {
-	            $scope.comments = data;
+	        .success(function (data, event) {
+				//Getting comments for specific post based on its ID
+				$http.get('http://localhost:9001/posts/'+ $routeParams.id +'/comments').success
+					(function(data){
+						$scope.comments = data;
+					}
+				);
+	            
 	        })
 	        .error(function (data) {
 	            $scope.ResponseDetails = "Data: " + data +
