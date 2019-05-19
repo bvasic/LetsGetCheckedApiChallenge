@@ -149,66 +149,11 @@
       "content": "Nunc facilisis nisi vitae dapibus sodales. Proin vitae nunc turpis."
     },
     {
-      "content": "asfsfas",
-      "user": "fafasgagasg",
-      "postId": "7",
-      "id": 8
-    },
-    {
-      "user": "asfasfasfasfas",
-      "content": "asfasfasfasf",
-      "date": "2019-05-17T11:16:07.528Z",
-      "postId": "1",
-      "id": 9
-    },
-    {
-      "user": "sdfsdfsdfsdfsdf",
-      "content": "sdfsdfsdfsdfsdfsdf",
-      "date": "2019-05-17T11:16:42.615Z",
-      "postId": "0",
-      "id": 10
-    },
-    {
-      "user": "fasfasfasfasfasasfasf",
-      "content": "fasfasfasfasfas",
-      "date": "2019-05-17T11:22:17.247Z",
-      "postId": "0",
-      "id": 11
-    },
-    {
-      "user": "sdgsdgsdg",
-      "content": "sdfdsgsdg",
-      "date": "2019-05-17T11:23:45.239Z",
-      "postId": "0",
-      "id": 12
-    },
-    {
-      "user": "hadfhadfha",
-      "content": "dafdfh",
-      "date": "2019-05-17T11:28:38.596Z",
-      "postId": "0",
-      "id": 13
-    },
-    {
-      "user": "asfasfasfasasfas",
-      "content": "asfasfasfasf",
-      "date": "2019-05-17T11:29:15.132Z",
-      "postId": "1",
-      "id": 14
-    },
-    {
       "user": "BOJAN VASIC",
       "content": "MOJ KOMENTAR",
       "date": "2019-05-17T11:46:40.298Z",
       "postId": "0",
       "id": 15
-    },
-    {
-      "user": "tetetete",
-      "content": "tetetetet",
-      "date": "2019-05-17T15:14:00.038Z",
-      "postId": "0",
-      "id": 16
     },
     {
       "user": "My name",
@@ -223,13 +168,6 @@
       "date": "2019-05-17T15:14:57.437Z",
       "postId": "8",
       "id": 18
-    },
-    {
-      "user": "fasfasf",
-      "content": "asfasfasfasfasfas",
-      "date": "2019-05-17T16:02:34.038Z",
-      "postId": "0",
-      "id": 19
     },
     {
       "user": "sdddd",
@@ -274,46 +212,11 @@
       "id": 25
     },
     {
-      "user": "asdsf",
-      "content": "asfasfasfas",
-      "date": "2019-05-19T20:18:23.479Z",
-      "postId": "9",
-      "id": 26
-    },
-    {
-      "user": "asdsfasfasfasfas",
-      "content": "asfasfasfas",
-      "date": "2019-05-19T20:18:49.459Z",
-      "postId": "9",
-      "id": 27
-    },
-    {
-      "user": "asdsfasfasfasfas",
-      "content": "asfasfasfasasfasfas",
-      "date": "2019-05-19T20:18:52.813Z",
-      "postId": "9",
-      "id": 28
-    },
-    {
       "user": "Route Man",
       "content": "Route Comment",
       "date": "2019-05-19T20:20:33.730Z",
       "postId": "9",
       "id": 29
-    },
-    {
-      "user": "asfasfas",
-      "content": "fasfasfaf",
-      "date": "2019-05-19T20:23:36.146Z",
-      "postId": "9",
-      "id": 30
-    },
-    {
-      "user": "fasfasfas",
-      "content": "asfasfasf",
-      "date": "2019-05-19T20:26:12.133Z",
-      "postId": "9",
-      "id": 31
     },
     {
       "user": "Test name",
@@ -323,209 +226,6 @@
       "id": 32
     },
     {
-      "user": "Test name",
-      "content": "Test comment",
-      "date": "2019-05-19T20:27:12.066Z",
-      "postId": "5",
-      "id": 33
-    },
-    {
-      "user": "Test name",
-      "content": "Test comment",
-      "date": "2019-05-19T20:27:12.740Z",
-      "postId": "5",
-      "id": 34
-    },
-    {
-      "user": "Test name",
-      "content": "Test comment",
-      "date": "2019-05-19T20:27:13.043Z",
-      "postId": "5",
-      "id": 35
-    },
-    {
-      "user": "Test nameasdfsdfasdfa",
-      "content": "Test commentsdfasfasdfasdf",
-      "date": "2019-05-19T20:27:20.493Z",
-      "postId": "5",
-      "id": 36
-    },
-    {
-      "user": "Test nameasdfsdfasdfa",
-      "content": "Test commentsdfasfasdfasdf",
-      "date": "2019-05-19T20:27:23.179Z",
-      "postId": "5",
-      "id": 37
-    },
-    {
-      "user": "reload name",
-      "content": "reload comment",
-      "date": "2019-05-19T20:28:17.166Z",
-      "postId": "5",
-      "id": 38
-    },
-    {
-      "user": "tt",
-      "content": "ss",
-      "date": "2019-05-19T20:28:30.761Z",
-      "postId": "5",
-      "id": 39
-    },
-    {
-      "user": "tt",
-      "content": "ss",
-      "date": "2019-05-19T20:28:33.858Z",
-      "postId": "5",
-      "id": 40
-    },
-    {
-      "user": "asfasgasgasgasgasgasgasg",
-      "content": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "date": "2019-05-19T20:31:15.582Z",
-      "postId": "5",
-      "id": 41
-    },
-    {
-      "user": "aaaaaaaaaaaa",
-      "content": "sssssssssssssssssss",
-      "date": "2019-05-19T20:31:53.343Z",
-      "postId": "5",
-      "id": 42
-    },
-    {
-      "user": "tttttttttttttt",
-      "content": "tttttttttttttttttttttttt",
-      "date": "2019-05-19T20:32:12.174Z",
-      "postId": "5",
-      "id": 43
-    },
-    {
-      "user": "ttttttttttttttttttttttttt",
-      "content": "tttttttttttttttttttttttt",
-      "date": "2019-05-19T20:32:20.251Z",
-      "postId": "5",
-      "id": 44
-    },
-    {
-      "user": "newq",
-      "content": "again",
-      "date": "2019-05-19T20:34:02.982Z",
-      "postId": "5",
-      "id": 45
-    },
-    {
-      "user": "newq",
-      "content": "again",
-      "date": "2019-05-19T20:34:09.537Z",
-      "postId": "5",
-      "id": 46
-    },
-    {
-      "user": "gggggggggg",
-      "content": "ffffffffffffff",
-      "date": "2019-05-19T20:34:32.799Z",
-      "postId": "5",
-      "id": 47
-    },
-    {
-      "user": "asfasf",
-      "content": "asfasfas",
-      "date": "2019-05-19T20:35:53.494Z",
-      "postId": "9",
-      "id": 48
-    },
-    {
-      "user": "asfasf",
-      "content": "asfasfas",
-      "date": "2019-05-19T20:35:53.690Z",
-      "postId": "9",
-      "id": 49
-    },
-    {
-      "user": "uuuuuuuuuuuuuu",
-      "content": "yyyyyyyyyyyyyyyy",
-      "date": "2019-05-19T20:37:37.357Z",
-      "postId": "9",
-      "id": 50
-    },
-    {
-      "user": "asdasdasd",
-      "content": "asdasdasd",
-      "date": "2019-05-19T20:56:48.565Z",
-      "postId": "9",
-      "id": 51
-    },
-    {
-      "user": "tt",
-      "content": "ee",
-      "date": "2019-05-19T21:02:39.437Z",
-      "postId": "9",
-      "id": 52
-    },
-    {
-      "user": "a",
-      "content": "v",
-      "date": "2019-05-19T21:14:45.488Z",
-      "postId": "9",
-      "id": 53
-    },
-    {
-      "user": "ll",
-      "content": "ll",
-      "date": "2019-05-19T21:26:01.548Z",
-      "postId": "9",
-      "id": 54
-    },
-    {
-      "user": "tttttttttttttttttt",
-      "content": "rrrrrrrrrrrrrrrrrrrr",
-      "date": "2019-05-19T21:27:04.000Z",
-      "postId": "9",
-      "id": 55
-    },
-    {
-      "user": "i",
-      "content": "l",
-      "date": "2019-05-19T21:27:52.465Z",
-      "postId": "9",
-      "id": 56
-    },
-    {
-      "user": "mjhjHTFHFH",
-      "content": "HFJVJH",
-      "date": "2019-05-19T21:28:24.858Z",
-      "postId": "9",
-      "id": 57
-    },
-    {
-      "user": "PPPPPP",
-      "content": "LLLLL",
-      "date": "2019-05-19T21:29:59.395Z",
-      "postId": "9",
-      "id": 58
-    },
-    {
-      "user": "asgasgsagasgagasgsagasgas",
-      "content": "asfasfasf",
-      "date": "2019-05-19T21:30:52.544Z",
-      "postId": "9",
-      "id": 59
-    },
-    {
-      "user": "P",
-      "content": "G",
-      "date": "2019-05-19T21:37:50.367Z",
-      "postId": "9",
-      "id": 60
-    },
-    {
-      "user": "R",
-      "content": "R",
-      "date": "2019-05-19T21:38:48.176Z",
-      "postId": "9",
-      "id": 61
-    },
-    {
       "user": "Julie",
       "content": "My comment",
       "date": "2019-05-19T21:39:36.843Z",
@@ -533,32 +233,18 @@
       "id": 62
     },
     {
-      "user": "xq",
-      "content": "x",
-      "date": "2019-05-19T21:40:46.465Z",
+      "user": "BOJAN VASIC",
+      "content": "b",
+      "date": "2019-05-19T22:39:17.849Z",
       "postId": "9",
-      "id": 63
+      "id": 106
     },
     {
-      "user": "asgasgsagasgagasgsagasgas",
-      "content": "asfasfasfasfasfas",
-      "date": "2019-05-19T21:42:09.472Z",
-      "postId": "9",
-      "id": 64
-    },
-    {
-      "user": "xcvxcvxvxc",
-      "content": "vxvxcvx",
-      "date": "2019-05-19T21:45:47.140Z",
-      "postId": "9",
-      "id": 65
-    },
-    {
-      "user": "dasdasdas",
-      "content": "dasdasdasd",
-      "date": "2019-05-19T21:45:54.873Z",
-      "postId": "3",
-      "id": 66
+      "user": "Mark Knopfler",
+      "content": "Sultans of Swing",
+      "date": "2019-05-19T22:43:05.589Z",
+      "postId": "8",
+      "id": 108
     }
   ]
 }
