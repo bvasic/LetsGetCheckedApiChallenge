@@ -30,10 +30,11 @@ I am interested in learning it and it shouldn't take too much time
 
 Last book that I read was from O'Reilly - Learning Node
 Reason for it is that I got very interested in node in last approx.2-3 years and find it very usefull for rapid development with limited human resources,
-specially for startups, and its fast learning curve for anyone who is familiar with Javascript, and I find it also very good for building microservices
+specially for startups, and its fast learning curve for anyone who is familiar with Javascript, and I find it also very good for building microservices.
 There was also an article about DevOps that I came across recently and definitely saw evidence of that happening in some environments where architecture, infrastructure and few other factors are not ready for it, 
 **link is:** https://www.cloudcomputing-news.net/news/2019/feb/20/four-reasons-why-your-company-might-not-be-ready-devops-just-yet/
 * Tell us about why you consider LetsGetChecked to be the right move for you.
+
 Because when I heard about LetsGetChecked, first of all I saw big potential for massive expansion on the market because idea for giving people opportunity to test their health on their own in their home without visiting doctor is absolutely brilliant, and also its the first company that I encountered that came up with that business model.
 After research on LinkedIn, Glassdoor and also heard from other people good words about it, and that person can expect very good healthy working environment with a good team, on a definitely interesting projects, and last but not least: its for the great cause. Human health!
 Also, I think I still have plenty to learn although that I am working in this area of IT for many years, and I see myself being as an effective and productive member of the theam, with even possibility to advance my career in future in LetsGetChecked. I think learning is very important, on daily basis, specially in software engineering where new technologies and processes are coming and evolving so fast, so from what I have information, LetsGetChecked is perfect company and environment for motivated and eager to learn people.

@@ -2,7 +2,8 @@ angular.module('app', [
 	'ngRoute',
 	'app.controllers'
 ])
-
+	
+	//routing configurations
 	.config(['$routeProvider', function($routeProvider){
 		$routeProvider.when('/',{
 			templateUrl: 'views/post.html',
@@ -15,6 +16,7 @@ angular.module('app', [
 		});
 	}])
 
+	//filtering because of json data which containst html elements inside it
 	.filter('trustHtml',function($sce){
 	  return function(html){
 	    return $sce.trustAsHtml(html)
