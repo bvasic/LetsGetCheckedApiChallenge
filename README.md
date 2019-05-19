@@ -41,8 +41,11 @@ Also, I think I still have plenty to learn although that I am working in this ar
 I hope I answered all of your questions,
 should you require anything else from my side,
 please do not hesitate to contact me.
+
 I'm looking forward to speak with you.
+
 Thank you.
+
 Kind regards,
 Bojan Vasic
 ## ################################################################
